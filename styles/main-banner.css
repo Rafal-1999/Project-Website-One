@@ -3,4 +3,21 @@
     height: 100vh;
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-banner__button {
+    border: 2px solid #FFF;
+    background: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.main-banner__button:hover {
+    background: #000;
 }
