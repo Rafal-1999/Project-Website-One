@@ -45,10 +45,26 @@ ul > li {
     text-transform: uppercase;
     font-weight: bold;
     padding: 5px 0;
+    position: relative;
 }
 .main-navigation__link:hover {
     border-bottom: 2px solid #FFF;
 }
 .main-navigation__link-image {
     width: 16px;
+}
+
+@media (max-width: 1199px) {
+    .main-navigation__menu-item {
+        margin-left: 30px;
+    }
+}
+@media (max-width: 991px) {
+    .main-navigation__logo-link {
+        font-size: 28px;
+    }
+    .main-navigation__logo-image {
+        width: 40px;
+        margin-right: 20px;
+    }
 }
