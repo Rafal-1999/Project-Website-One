@@ -48,12 +48,12 @@
     width: 16px;
 }
 
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 1056px) and (max-width: 1140px) {
     .main-navigation__menu-item {
         margin-left: 30px;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 1055px) {
     .main-navigation__logo-link {
         font-size: 28px;
     }
