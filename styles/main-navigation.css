@@ -48,7 +48,7 @@
     width: 16px;
 }
 
-@media (max-width: 1199px) {
+@media (min-width: 1000px) and (max-width: 1199px) {
     .main-navigation__menu-item {
         margin-left: 30px;
     }
