@@ -8,12 +8,6 @@
     padding: 20px;
     display: flex;
 }
-/* .main-navigation ul > li {
-    position: relative;
-}
-ul > li {
-    position: absolute;
-} */
 .main-navigation__inner {
     max-width: 1350px;
     margin: auto;
