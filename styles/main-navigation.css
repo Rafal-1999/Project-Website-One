@@ -58,11 +58,10 @@
 }
 @media (max-width: 1060px) {
     .main-navigation__logo-link {
-        font-size: 28px;
+        font-size: 30px;
     }
     .main-navigation__logo-image {
-        width: 40px;
-        margin-right: 20px;
+        width: 50px;
     }
     .main-navigation__menu {
         position: fixed;
