@@ -31,9 +31,9 @@
     margin-left: 40px;
 }
 .main-navigation__logo-link, .main-navigation__link {
-    text-decoration: none;
     display: flex;
     align-items: center;
+    text-decoration: none;
     color: #FFF;
 }
 .main-navigation__logo-link {
@@ -97,5 +97,16 @@
     }
     .main-navigation__link:hover {
         border-bottom: unset;
+    }
+    .main-navigation__menu-button {
+        display: unset;
+        background: none;
+        border: none;
+        outline: none;
+        padding: 0;
+    }
+    .main-navigation__menu-button-image {
+        display: block;
+        width: 25px;
     }
 }
