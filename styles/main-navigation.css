@@ -10,7 +10,7 @@
 }
 .main-navigation__inner {
     max-width: 1350px;
-    margin: auto;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -21,8 +21,9 @@
 }
 .main-navigation__menu {
     display: flex;
-    margin: 0;
+    margin: 0 auto;
     list-style: none;
+    /* align-items: center; */
     transition: 0.5s;
     transition-property: opacity, transform;
 }
@@ -49,6 +50,9 @@
 }
 .main-navigation__link-image {
     width: 16px;
+}
+.main-navigation__menu-button {
+    display: none;
 }
 
 @media (min-width: 1061px) and (max-width: 1160px) {

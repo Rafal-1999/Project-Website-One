@@ -16,6 +16,7 @@
     font-size: 18px;
     color: #FFF;
     text-transform: uppercase;
+    text-align: center;
     transition: 0.5s;
 }
 .main-banner__button:hover {
