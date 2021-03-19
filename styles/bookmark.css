@@ -11,3 +11,7 @@
     margin: 0;
     text-transform: uppercase;
 }
+.bookmark__header::after, .bookmark__header::before {
+    content: " - ";
+    font-weight: normal;
+}
