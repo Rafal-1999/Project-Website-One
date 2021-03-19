@@ -6,3 +6,8 @@
     text-align: center;
     padding: 8vh 5vw;
 }
+.bookmark__header {
+    font-size: 7.5em;
+    margin: 0;
+    text-transform: uppercase;
+}
