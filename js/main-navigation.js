@@ -9,4 +9,3 @@
     button.addEventListener("click", toggleClass);
     menu.addEventListener("click", toggleClass);
 })();
-alert ("Komunikat ze strony.");
