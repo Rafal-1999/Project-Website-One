@@ -10,6 +10,9 @@
 .bookmark--menu {
     background-image: url("/images/bookmarks/menu.jpg");
 }
+.bookmark--gallery {
+    background-image: url("/images/bookmarks/gallery.jpg");
+}
 .bookmark::after {
     content: "";
     position: absolute;
