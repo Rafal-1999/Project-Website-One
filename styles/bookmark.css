@@ -1,5 +1,4 @@
 .bookmark {
-    background-image: url("/images/bookmarks/menu.jpg");
     background-size: cover;
     background-position: center center;
     color: #FFF;
@@ -7,6 +6,9 @@
     padding: 8vh 5vw;
     position: relative;
     z-index: 0;
+}
+.bookmark--menu {
+    background-image: url("/images/bookmarks/menu.jpg");
 }
 .bookmark::after {
     content: "";
