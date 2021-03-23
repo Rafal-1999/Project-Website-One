@@ -16,6 +16,9 @@
 .bookmark--contact {
     background-image: url("/images/bookmarks/contact.jpg");
 }
+.bookmark--route {
+    background-image: url("/images/bookmarks/route.jpg");
+}
 .bookmark::after {
     content: "";
     position: absolute;
