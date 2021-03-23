@@ -13,6 +13,9 @@
 .bookmark--gallery {
     background-image: url("/images/bookmarks/gallery.jpg");
 }
+.bookmark--contact {
+    background-image: url("/images/bookmarks/contact.jpg");
+}
 .bookmark::after {
     content: "";
     position: absolute;
