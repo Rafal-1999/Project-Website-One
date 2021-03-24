@@ -7,6 +7,7 @@
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
     display: flex;
+    z-index: 1;
 }
 .main-navigation__inner {
     max-width: 1350px;
