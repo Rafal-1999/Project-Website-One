@@ -38,3 +38,8 @@
     content: " - ";
     font-weight: normal;
 }
+@media (max-width: 1199px) {
+    .bookmark__header {
+        font-size: 10vw;
+    }
+}
