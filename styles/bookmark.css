@@ -40,6 +40,7 @@
 }
 @media (min-width: 1000px){
     .about-us {
-        
+        width: 100%;
+        color: green;
     }
 }
