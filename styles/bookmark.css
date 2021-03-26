@@ -38,6 +38,10 @@
     content: " - ";
     font-weight: normal;
 }
+.bookmark__description {
+    font-size: 24px;
+    margin: 0;
+}
 @media (max-width: 1199px) {
     .bookmark__header {
         font-size: 10vw;
