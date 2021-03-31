@@ -1,10 +1,11 @@
 .menu {
     display: flex;
+    flex-wrap: wrap;
     color: #333;
     margin: 0 -15px;
 }
 .menu__column{
-    flex-basis: 30%;
+    flex-basis: 33%;
     padding: 0 15px;
 }
 .menu__header {
@@ -35,4 +36,8 @@
 }
 .menu__position-price {
     order: 3;
+}
+.menu__description {
+    color: #777;
+    font-size: 14px;
 }
