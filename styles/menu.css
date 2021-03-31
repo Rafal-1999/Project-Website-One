@@ -1,5 +1,7 @@
 .menu {
     display: flex;
+    color: #333;
+    margin: 0 -15px;
 }
 .menu__column {
     flex-basis: 33%;
@@ -15,6 +17,7 @@
 }
 .menu__position {
     display: flex;
+    margin: 10px 0;
 }
 .menu__position-name {
     text-transform: uppercase;
