@@ -1,8 +1,12 @@
 .menu {
     display: flex;
 }
+.menu__column {
+    flex-basis: 33%;
+    padding: 0 15px;
+}
 .menu__header {
-    text-align: center;
+    font-size: 42px;
     text-transform: uppercase;
 }
 .menu__list {
@@ -11,4 +15,12 @@
 }
 .menu__position {
     display: flex;
+}
+.menu__position-name {
+    text-transform: uppercase;
+}
+.menu__position-name::after {
+    content: "";
+    border-bottom: dotted;
+    margin: 0 5px;
 }
