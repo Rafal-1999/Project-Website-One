@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+}
+.menu__header {
+    text-transform: uppercase;
+}
+.menu__list {
+    list-style: none;
+    padding-left: 0;
+}
