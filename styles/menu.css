@@ -41,3 +41,8 @@
     color: #777;
     font-size: 14px;
 }
+@media (max-width: 991px) {
+    .menu__header {
+        font-size: 32px;
+    }
+}
