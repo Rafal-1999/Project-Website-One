@@ -46,3 +46,13 @@
         font-size: 32px;
     }
 }
+@media (max-width: 767px) {
+    .menu__column {
+        flex-basis: 50%;
+    }
+}
+@media (max-width: 500px) {
+    .menu__column {
+        flex-basis: 100%;
+    }
+}
