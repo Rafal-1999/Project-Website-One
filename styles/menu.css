@@ -50,8 +50,14 @@
     .menu__column {
         flex-basis: 50%;
     }
+    .menu__header {
+        margin: 20px 0;
+    }
+    .menu__list-item {
+        margin: 15px 0;
+    }
 }
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     .menu__column {
         flex-basis: 100%;
     }
