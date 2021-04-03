@@ -19,3 +19,8 @@
     height: 100%;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
