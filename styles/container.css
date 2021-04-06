@@ -4,3 +4,6 @@
     margin: auto;
     padding: 60px 40px;
 }
+.container--smaller {
+    width: 940px;
+}
