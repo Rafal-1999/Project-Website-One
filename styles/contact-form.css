@@ -50,3 +50,17 @@
     color: #777;
     text-transform: uppercase;
 }
+.contact-form__submit-button {
+    display: block;
+    margin: 30px auto 0 auto;
+    padding: 20px 30px;
+    border: none;
+    background: #FFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.contact-form__submit-button:hover {
+    background: #DDD;
+}
