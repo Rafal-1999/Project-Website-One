@@ -22,3 +22,10 @@
     text-decoration: none;
     font-size: 22px;
 }
+.contact-form__header {
+    text-align: center;
+    color: #EEE;
+    margin: 0 0 50px 0;
+    line-height: 1.5;
+    font-size: 20px;
+}
