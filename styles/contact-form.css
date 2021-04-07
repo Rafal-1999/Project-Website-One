@@ -29,3 +29,24 @@
     line-height: 1.5;
     font-size: 20px;
 }
+.contact-form__fields {
+    --gap: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: calc(var(--gap) / -2);
+}
+.contact-form__field {
+    width: calc(50% - var(--gap));
+    margin: calc(var(--gap) / 2);
+    background: transparent;
+    padding: 12px;
+    border: 1px solid ;
+    color: #EEE;
+}
+.contact-form__field--full-row {
+    width: calc(100% - var(--gap));
+}
+.contact-form__field::placeholder {
+    color: #777;
+    text-transform: uppercase;
+}
