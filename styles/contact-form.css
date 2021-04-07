@@ -2,3 +2,23 @@
     background: #232e33;
     color: #FFF;
 }
+.contact-form__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.contact-form__info-item {
+    display: flex;
+    align-items: center;
+    margin: 0 30px;
+}
+.contact-form__info-icon {
+    margin-right: 10px;
+    height: 25px;
+}
+.contact-form__info-link {
+    color: #EEE;
+    text-decoration: none;
+    font-size: 22px;
+}
