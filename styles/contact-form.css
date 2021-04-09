@@ -10,7 +10,7 @@
 .contact-form__info-item {
     display: flex;
     align-items: center;
-    margin: 0 30px;
+    margin: 5px 30px;
 }
 .contact-form__info-icon {
     margin-right: 10px;
@@ -62,4 +62,9 @@
 }
 .contact-form__submit-button:hover {
     background: #DDD;
+}
+@media (max-width: 767px) {
+    .contact-form__info {
+        flex-wrap: wrap;
+    }
 }
