@@ -67,4 +67,7 @@
     .contact-form__info {
         flex-wrap: wrap;
     }
+    .contact-form__info-link {
+        font-size: 16px;
+    }
 }
