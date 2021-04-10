@@ -49,9 +49,6 @@
 .main-navigation__link:hover {
     border-bottom: 2px solid #FFF;
 }
-.main-navigation__link-image {
-    width: 16px;
-}
 .main-navigation__menu-button {
     display: none;
 }
