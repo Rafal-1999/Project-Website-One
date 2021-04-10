@@ -1,5 +1,8 @@
 .footer {
     background: #000;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
 .footer__link {
     color: #FFF;
