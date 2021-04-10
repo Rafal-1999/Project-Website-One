@@ -1,3 +1,9 @@
 .footer {
     background: #000;
 }
+.footer__link {
+    color: #FFF;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
