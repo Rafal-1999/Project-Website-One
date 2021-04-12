@@ -3,4 +3,5 @@
 Technologies used:
 * HTML
 * CSS
+* RWD
 * JS
