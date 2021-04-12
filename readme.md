@@ -4,4 +4,5 @@ Technologies used:
 * HTML
 * CSS
 * RWD
+* BEM
 * JS
