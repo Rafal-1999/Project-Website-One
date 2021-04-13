@@ -1,13 +1,13 @@
 # Project Website One
 ## Project name: Polskie Smaki
-Technologies used:
+**Technologies used:**
 * HTML5
 * CSS3
 * RWD
 * BEM
 * JS
 
-Description:
+**Description:**
 
 The first design of a full-size website.
 
