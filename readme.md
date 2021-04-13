@@ -6,3 +6,7 @@ Technologies used:
 * RWD
 * BEM
 * JS
+
+Description:
+
+The first design of a full-size website.
