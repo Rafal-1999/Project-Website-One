@@ -10,3 +10,8 @@ Technologies used:
 Description:
 
 The first design of a full-size website.
+
+:point_right:
+
+:+1:
+
