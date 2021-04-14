@@ -13,3 +13,4 @@ The first design of a full-size website.
 
 ## Home page
 ![Home page](./images/main.png)
+![Example screenshot](./images/screenshot.png)
