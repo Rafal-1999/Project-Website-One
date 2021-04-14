@@ -11,7 +11,5 @@
 
 The first design of a full-size website.
 
-:point_right:
-
-:+1:
-
+## Home page
+![Home page](./images/main.png)
