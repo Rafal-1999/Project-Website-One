@@ -1,0 +1,4 @@
+Sitemap: http://user5.strefanauczania.pl/sitemap.xml
+
+User-agent: Googlebot-Image
+Disallow: /images/bookmarks/route.jpg
