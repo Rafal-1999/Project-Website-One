@@ -1,0 +1,5 @@
+AddType application/x-httpd-php80 .php
+
+<Files ~ "\.pdf$">
+  Header set X-Robots-Tag "noindex, nofollow"
+</Files>
