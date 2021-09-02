@@ -9,6 +9,7 @@ https://rafal-1999.github.io/Project-Website-One/
 * RWD
 * BEM
 * JS
+* Open Graph
 
 **Description:**
 
