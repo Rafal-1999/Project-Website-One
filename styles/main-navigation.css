@@ -16,6 +16,9 @@
     align-items: center;
     justify-content: space-between;
 }
+.main-navigation__logo {
+    margin: 0;
+}
 .main-navigation__logo-image {
     width: 70px;
     margin-right: 20px;
