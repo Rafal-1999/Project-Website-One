@@ -105,6 +105,7 @@
         border: none;
         outline: none;
         padding: 0;
+        cursor: pointer;
     }
     .main-navigation__menu-button-image {
         display: block;
