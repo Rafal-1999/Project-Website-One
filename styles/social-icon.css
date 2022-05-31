@@ -1,3 +1,6 @@
 .social-icon {
-    width: 16px;
+    width: 18px;
+}
+.social-icon--margin {
+    margin-right: 7px;
 }
